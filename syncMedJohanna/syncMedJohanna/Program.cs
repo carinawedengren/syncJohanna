@@ -11,6 +11,7 @@ namespace syncMedJohanna
         static void Main(string[] args)
         {
             Console.WriteLine("Hej Johanna :)");
+            Console.WriteLine("Hej Carina!!");
         }
     }
 }
