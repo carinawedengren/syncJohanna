@@ -12,6 +12,7 @@ namespace syncMedJohanna
         {
             Console.WriteLine("Hej Johanna :)");
             Console.WriteLine("Hej Carina!!");
+            Console.WriteLine("Snart heeelg")
         }
     }
 }
